@@ -4,7 +4,7 @@ export default function Navbar() {
 return (
    <nav className="navbar">
      <div className="navbar-container">
-       <Link to="/">ShopHub</Link>
+       <Link to="/">HenaStore</Link>
          <div className="navbar-links">
             <Link to="/"className="navbar-link">Home</Link>
             <Link to="/Checkout" className="navbar-link">Cart</Link>
